@@ -1,8 +1,8 @@
-#Interaksi-Manusia-dan-Komputer-2024#
+# Interaksi-Manusia-dan-Komputer-2024
 
-##Perancangan Desain Food Ordering App "pizieEz" berbasis Mobile##
+## Perancangan Desain Food Ordering App "pizieEz" berbasis Mobile
 
-###Narupa Rangga Goroguta (2209106004)###
+### Narupa Rangga Goroguta (2209106004)
 
 Instruksi Umum
 Pada ujian akhir semester ini, Anda diminta untuk membuat sebuah showcase IMK menggunakan Dribbble atau Behance berdasarkan prototype aplikasi web yang telah Anda buat sebelumnya dengan Figma. Hasil akhir yang harus dikumpulkan adalah tautan ke showcase di Dribbble atau Behance dan sebuah laporan yang menjelaskan proyek Anda
